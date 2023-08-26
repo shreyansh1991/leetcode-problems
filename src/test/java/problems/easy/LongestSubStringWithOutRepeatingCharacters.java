@@ -4,7 +4,7 @@ import java.util.Arrays;
 import java.util.HashSet;
 import java.util.Set;
 
-public class ShuffleTheArray {
+public class LongestSubStringWithOutRepeatingCharacters {
         public static void main(String[] args) {
             String s = "abcabcbb";
             int start = 0;

@@ -3,7 +3,7 @@ package problems.easy;
 import java.util.HashMap;
 import java.util.Map;
 
-public class LengthOfLargestSubArray {
+public class LengthOfLargestSubArrayWithZeroSum {
     public static void main(String[] args) {
         int[] arr = {-2, 2, -7, 7};
         int prefixSum = 0;

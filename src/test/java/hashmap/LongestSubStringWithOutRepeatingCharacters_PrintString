@@ -6,7 +6,7 @@ import java.util.Set;
 
 public class LongestSubStringWithOutRepeatingCharacters_PrintString {
     public static void main(String[] args) {
-        String s = "abcabcbbcccddaa*&&&xxppooiu";
+        String s = "pwwkew";
         String str = "";
 
         int release = 0;
